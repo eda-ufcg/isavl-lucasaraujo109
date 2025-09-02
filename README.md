@@ -1,8 +1,8 @@
 # Identificação
 
-* Nome: 
-* Email (@ccc): 
-* Matrícula: 
+* Nome: Lucas Araujo Medeiros
+* Email (@ccc): lucas.araujo.medeiros@ccc.ufcg.edu.br
+* Matrícula: 124110594
 
 # Roteiro: isAVL
 
